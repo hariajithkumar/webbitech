@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">webbitech</string>
+    <string name="title_activity_main">webbitech</string>
+    <string name="package_name">com.webbitech.app</string>
+    <string name="custom_url_scheme">com.webbitech.app</string>
+</resources>
